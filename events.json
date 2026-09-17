@@ -1,0 +1,30 @@
+[
+  {
+    "repo": "octocat/Hello-World",
+    "owner": "octocat",
+    "description": "My first repository on GitHub!",
+    "url": "https://github.com/octocat/Hello-World",
+    "starredAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "repo": "torvalds/linux",
+    "owner": "torvalds",
+    "description": "Linux kernel source tree",
+    "url": "https://github.com/torvalds/linux",
+    "starredAt": "2024-03-22T14:30:00Z"
+  },
+  {
+    "repo": "microsoft/vscode",
+    "owner": "microsoft",
+    "description": "Visual Studio Code",
+    "url": "https://github.com/microsoft/vscode",
+    "starredAt": "2024-06-05T09:15:00Z"
+  },
+  {
+    "repo": "facebook/react",
+    "owner": "facebook",
+    "description": "The library for web and native user interfaces",
+    "url": "https://github.com/facebook/react",
+    "starredAt": "2024-08-30T18:45:00Z"
+  }
+]

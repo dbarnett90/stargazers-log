@@ -1,0 +1,46 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  color: #24292f;
+  background-color: #ffffff;
+}
+
+h1 {
+  border-bottom: 1px solid #d0d7de;
+  padding-bottom: 0.5rem;
+}
+
+#stargazers-list {
+  list-style: none;
+  padding: 0;
+}
+
+#stargazers-list li {
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+#stargazers-list .repo-name {
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  color: #0969da;
+}
+
+#stargazers-list .repo-name:hover {
+  text-decoration: underline;
+}
+
+#stargazers-list .repo-description {
+  margin: 0.4rem 0;
+  color: #57606a;
+}
+
+#stargazers-list .starred-at {
+  font-size: 0.85rem;
+  color: #8c959f;
+}
